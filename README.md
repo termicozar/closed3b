@@ -1,18 +1,17 @@
-# [Echotemplate.com](https://echotemplate.com)
-FREE UI & HTML Templates for Designer and Developer. Echotemplate is a place where a team of design & developers create beautiful templates. Visit [Echotemplate.com](https://echotemplate.com) for more updates.
+# [Templatecookie](https://templatecookie.com)
+Templatecookie.com creates quality templates and php scripts. Templatecookie has many free HTML & Figma templates available for professional use. Templatecookie is famous for its premium PHP Scripts available on [Codeanyon Marketplace](https://codecanyon.net/user/templatecookie). Browse [Templatecookie](https://templatecookie.com) today and discover awesome digital products.
 
-# [BD Weather Coming Soon Responsive HTML Template](https://echotemplate.com/templates/bd-weather-coming-soon-responsive-html-template)
+# [Poco HTML Agency Landing Page Template](https://www.templatecookie.com/templates/varin-html-template)
 
-> Coming Soon Responsive HTML Template based on bootstrap framework v5.
+> Poco is a beautiful landing page template for agencies, It has many pages including, services, about, contact, portfolio, portfolio details, blog, blog details, and more.
 
-This project is a bootstrap version [BD Weather Coming Soon Responsive HTML Template](http://echotemplate.com) designed with HTML & CSS.
-
-Check the [Live Demo here](http://demo.echotemplate.com/bd-weather-coming-soon-responsive-html-template/).
+Check the [Live Demo here](https://bdweather-coming-soon.netlify.app/).
 
 ![](screenshot.png)
 
 ## Credits
-- Design by coded by [Zakir Soft](https://zakirsoft.com)
+- Design & Developed by [Templatecookie](https://templatecookie.com)
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
